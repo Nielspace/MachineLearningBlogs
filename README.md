@@ -1,1 +1,1 @@
-# MachineLearningBlogs
+# Machine Learning Blogs
